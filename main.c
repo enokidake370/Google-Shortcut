@@ -6,7 +6,7 @@
 #include <sysapp/switch.h>
 #include <string.h>
 
-#define URL "https://wiiubrew.org/wiki/Main_Page"
+#define URL "https://www.google.com/"
 
 int main(int argc, char **argv)
 {
